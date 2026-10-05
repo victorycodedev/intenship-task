@@ -1,0 +1,14 @@
+/Users/efekpoguavictory/Dotnet/intenship/bin/Debug/net10.0/intenship
+/Users/efekpoguavictory/Dotnet/intenship/bin/Debug/net10.0/intenship.deps.json
+/Users/efekpoguavictory/Dotnet/intenship/bin/Debug/net10.0/intenship.runtimeconfig.json
+/Users/efekpoguavictory/Dotnet/intenship/bin/Debug/net10.0/intenship.dll
+/Users/efekpoguavictory/Dotnet/intenship/bin/Debug/net10.0/intenship.pdb
+/Users/efekpoguavictory/Dotnet/intenship/obj/Debug/net10.0/intenship.GeneratedMSBuildEditorConfig.editorconfig
+/Users/efekpoguavictory/Dotnet/intenship/obj/Debug/net10.0/intenship.AssemblyInfoInputs.cache
+/Users/efekpoguavictory/Dotnet/intenship/obj/Debug/net10.0/intenship.AssemblyInfo.cs
+/Users/efekpoguavictory/Dotnet/intenship/obj/Debug/net10.0/intenship.csproj.CoreCompileInputs.cache
+/Users/efekpoguavictory/Dotnet/intenship/obj/Debug/net10.0/intenship.dll
+/Users/efekpoguavictory/Dotnet/intenship/obj/Debug/net10.0/refint/intenship.dll
+/Users/efekpoguavictory/Dotnet/intenship/obj/Debug/net10.0/intenship.pdb
+/Users/efekpoguavictory/Dotnet/intenship/obj/Debug/net10.0/intenship.genruntimeconfig.cache
+/Users/efekpoguavictory/Dotnet/intenship/obj/Debug/net10.0/ref/intenship.dll
