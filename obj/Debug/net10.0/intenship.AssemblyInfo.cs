@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("intenship")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07a5fa4a0de0024945ed402753cf21f9a9ebbea3")]
 [assembly: System.Reflection.AssemblyProductAttribute("intenship")]
 [assembly: System.Reflection.AssemblyTitleAttribute("intenship")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
